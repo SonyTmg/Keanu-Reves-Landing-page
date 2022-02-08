@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(24, 24, 24);
+  height: 200px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .footer-content ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  justify-content: space-evenly;
+}
+
+footer .social-icon {
+  font-size: 32px;
+  color: aquamarine;
+}
+
+footer .social-icon:hover {
+  color: rgb(0, 175, 117);
+}

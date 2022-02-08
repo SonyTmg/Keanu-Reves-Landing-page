@@ -1,0 +1,10 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container.feature-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 60px auto;
+}

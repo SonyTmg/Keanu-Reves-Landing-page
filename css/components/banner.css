@@ -1,0 +1,10 @@
+.hero-banner {
+  height: 500px;
+  width: 100%;
+  background-image: url(/images/keanu.jpeg);
+  background-position: top;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+}
